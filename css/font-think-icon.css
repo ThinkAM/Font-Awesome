@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'think-icon';
-  src:  url('fonts/think-icon.eot?jnrd49');
-  src:  url('fonts/think-icon.eot?jnrd49#iefix') format('embedded-opentype'),
-    url('fonts/think-icon.ttf?jnrd49') format('truetype'),
-    url('fonts/think-icon.woff?jnrd49') format('woff'),
-    url('fonts/think-icon.svg?jnrd49#think-icon') format('svg');
+  src:  url('../fonts/think-icon.eot?jnrd49');
+  src:  url('../fonts/think-icon.eot?jnrd49#iefix') format('embedded-opentype'),
+    url('../fonts/think-icon.ttf?jnrd49') format('truetype'),
+    url('../fonts/think-icon.woff?jnrd49') format('woff'),
+    url('../fonts/think-icon.svg?jnrd49#think-icon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
