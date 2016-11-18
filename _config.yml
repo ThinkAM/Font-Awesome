@@ -1,6 +1,6 @@
 safe:             false
 port:             7998
-baseurl:          /Font-Awesome/  # Where GitHub serves the project up from
+baseurl:          /ThinkAM/  # Where GitHub serves the project up from
 url:              http://localhost:7998
 
 source:           src
@@ -35,7 +35,7 @@ fontawesome:
     twitter:      davegandy
     github:       davegandy
   github:
-    url:          https://github.com/FortAwesome/Font-Awesome
+    url:          https://github.com/ThinkAM/Font-Awesome
     project:      Font-Awesome
     org:          FortAwesome
   license:
