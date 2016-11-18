@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {},
   "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
-  "main": "css/font-think-icon",
+  "main": "css/font-think-icon.css",
   "ignore": [
     "*/.*",
     "*.json",
