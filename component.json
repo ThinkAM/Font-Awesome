@@ -1,14 +1,15 @@
 {
-  "name": "font-awesome",
-  "repo": "FortAwesome/Font-Awesome",
-  "description": "Font Awesome",
+  "name": "think-icon",
+  "repo": "ThinkAM/Font-Awesome",
+  "description": "Think Icon",
   "version": "4.7.0",
   "keywords": [],
   "dependencies": {},
   "development": {},
   "license": "SIL, MIT, CC BY 3.0",
   "styles": [
-    "css/font-awesome.css"
+    "css/font-awesome.css",
+    "css/font-think-icon.css"
   ],
   "fonts": [
     "fonts/fontawesome-webfont.eot",
@@ -16,6 +17,10 @@
     "fonts/fontawesome-webfont.ttf",
     "fonts/fontawesome-webfont.woff",
     "fonts/fontawesome-webfont.woff2",
-    "fonts/FontAwesome.otf"
+    "fonts/FontAwesome.otf",
+    "fonts/think-icon.eot",
+    "fonts/think-icon.svg",
+    "fonts/think-icon.ttf",
+    "fonts/think-icon.woff"
   ]
 }

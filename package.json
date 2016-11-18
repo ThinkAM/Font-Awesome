@@ -1,12 +1,12 @@
 {
-  "name": "font-awesome",
+  "name": "think-icon",
   "description": "The iconic font and CSS framework",
   "version": "4.7.0",
-  "style": "css/font-awesome.css",
+  "style": "css/think-icon.css",
   "keywords": ["font", "awesome", "fontawesome", "icon", "font", "bootstrap"],
-  "homepage": "http://fontawesome.io/",
+  "homepage": "http://www.thinkam.net/",
   "bugs": {
-    "url" : "http://github.com/FortAwesome/Font-Awesome/issues"
+    "url" : "http://github.com/ThinkAM/Font-Awesome/issues"
   },
   "author": {
     "name": "Dave Gandy",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FortAwesome/Font-Awesome.git"
+    "url": "https://github.com/ThinkAM/Font-Awesome.git"
   },
   "contributors": [
     {

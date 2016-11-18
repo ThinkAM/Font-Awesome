@@ -1,8 +1,8 @@
 {
-  "name": "font-awesome",
-  "description": "Font Awesome",
+  "name": "think-icon",
+  "description": "Think Icon",
   "keywords": [],
-  "homepage": "http://fontawesome.io",
+  "homepage": "http://www.thinkam.net",
   "dependencies": {},
   "devDependencies": {},
   "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],

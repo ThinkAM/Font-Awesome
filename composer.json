@@ -2,13 +2,19 @@
   "name": "fortawesome/font-awesome",
   "description": "The iconic font and CSS framework",
   "keywords": ["font", "awesome", "fontawesome", "icon", "font", "bootstrap"],
-  "homepage": "http://fontawesome.io/",
+  "homepage": "http://www.thinkam.net/",
   "authors": [
     {
-      "name": "Dave Gandy",
-      "email": "dave@fontawesome.io",
+      "name": "Felipe Almeida",
+      "email": "felipe.almeida@thinkam.net",
       "role": "Developer",
-      "homepage": "http://twitter.com/davegandy"
+      "homepage": "http://twitter.com/felipealbuquerq"
+    },    
+    {
+      "name": "Danilo Tenorio",
+      "email": "danilo.tenorio@thinkam.net",
+      "role": "Developer",
+      "homepage": "http://twitter.com/_danilotenorio"
     }
   ],
   "extra": {
